@@ -3,7 +3,6 @@ package patternprograms;
 public class Pattern1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int n = new java.util.Scanner(System.in).nextInt();
 		for(int r=1;r<=3;r++)
 		{
@@ -11,7 +10,5 @@ public class Pattern1 {
 				System.out.print(c);
 		System.out.println();
 		}
-
 	}
-
 }
